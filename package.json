@@ -1,0 +1,14 @@
+{
+    "name": "com.cm.so",
+    "displayName": "CM SO",
+    "version": "0.1.0",
+    "unity": "2019.3",
+    "author": "Casper Meloen",
+    "description": "CM SO is a Unity package for ScriptableObjects. This package will add ScriptableObjects like IntSO, StringSO, BoolSO etc...",
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/empireboy/com.cm.so.git",
+        "revision": ""
+    }
+}
