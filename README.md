@@ -1,4 +1,4 @@
-# CM SO V0.1.0
+# CM SO v0.1.0
 
 CM SO is a Unity package for ScriptableObjects. This package will add ScriptableObjects like IntSO, StringSO, BoolSO etc...
 
